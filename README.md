@@ -5,8 +5,6 @@ A.Google courses
 
 https://grow.google/intl/uk/courses-and-tools/?fbclid=IwY2xjawHfO7BleHRuA2FlbQIxMAABHSYQHDa5hDkBbLNo_aa5bpoX8pDsrExx2A7HwDJKQBvN-ZdVbzXs8wmBQg_aem_g1w-XqwYX-vPrreX_HAYTw
 
-
-
 B.International NGOs & UN agencies offer FREE online courses with CERTIFICATES.
 
 Courses by UN Agencies
@@ -73,3 +71,10 @@ https://www.humanrightscareers.com/
 Focus on best practices in humanitarian response.
 https://spherestandards.org/training/
 
+
+C. 🔥📘 Free python Course with Certification: Learn python Programming for Free and Get Certified! 🎓🚀
+https://data-flair.training/python-courses/
+Course Highlights:
+🔹 Free of cost! No hidden charges! 🆓💸
+🔹 170+ hands-on projects - Practical experience guaranteed! 🤖💼
+🔹 Certification included - Boost your career! 🏆🚀
